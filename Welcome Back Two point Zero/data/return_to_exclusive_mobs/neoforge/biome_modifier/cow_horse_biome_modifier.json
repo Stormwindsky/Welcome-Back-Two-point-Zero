@@ -1,0 +1,12 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": {
+    "type": "neoforge:any"
+  },
+  "spawners": {
+    "type": "return_to_exclusive_mobs:cow_horse",
+    "weight": 20,
+    "minCount": 4,
+    "maxCount": 4
+  }
+}
